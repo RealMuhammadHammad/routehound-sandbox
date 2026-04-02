@@ -8,3 +8,4 @@ const AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY";
 function uploadToS3(file) {
   console.log("Uploading with key: " + AWS_ACCESS_KEY_ID);
 }
+//hi
