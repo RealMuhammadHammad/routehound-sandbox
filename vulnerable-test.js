@@ -6,3 +6,4 @@ function getUserData(userInput) {
     const query = "SELECT * FROM users WHERE username = '" + userInput + "'";
     db.execute(query);
 }
+// testing the gemini brain
