@@ -7,3 +7,4 @@ function getUserData(userInput) {
     db.execute(query);
 }
 // testing the gemini brain إن شاء اللّه  will work
+//we can do it
