@@ -5,7 +5,7 @@ import * as crypto from 'crypto';
 
 export class VulnerableApp {
   
-  // 🚨 1. The Bouncer Test (Leaked Secrets)
+  // 🚨 1. The Bouncer Test (Leaked Secrets) hi
   // This should trigger your Regex Bouncer instantly.
   public awsConfig = {
     region: 'us-east-1',
