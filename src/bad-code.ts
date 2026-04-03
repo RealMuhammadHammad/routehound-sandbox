@@ -9,7 +9,7 @@ export class VulnerableApp {
   // This should trigger your Regex Bouncer instantly.
   public awsConfig = {
     region: 'us-east-1',
-    accessKey: 'AKIAIOSFODNN7EXAMPLE', 
+    accessKey: 'FAKEIOSFODNN7EXAMPLE', 
     secretKey: 'wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY'
   };
 
